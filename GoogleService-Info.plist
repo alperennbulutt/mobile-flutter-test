@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>116385948853-qlo0lcvfpcgak0oj40icku9bdo4jjeeg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.116385948853-qlo0lcvfpcgak0oj40icku9bdo4jjeeg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDEqMjc5UAS0oWR7HX0sg4z2vRVFPYE28A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>116385948853</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.SnagomApp.prokaryotech</string>
+	<key>PROJECT_ID</key>
+	<string>snagomapp-29e0f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snagomapp-29e0f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:116385948853:ios:4270e5007f7d3378fecafc</string>
+	<key>DATABASE_URL</key>
+	<string>https://snagomapp-29e0f-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
